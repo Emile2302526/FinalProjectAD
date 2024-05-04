@@ -1,0 +1,7 @@
+﻿  main.c
+  pascal.c
+C:\AppDev\PasscakTriangle\pascal.c(9,18): warning C4013: 'biomial' undefined; assuming extern returning int
+C:\AppDev\PasscakTriangle\pascal.c(17,9): warning C4013: 'factorial' undefined; assuming extern returning int
+  screen.c
+  Generating Code...
+  PasscakTriangle.vcxproj -> C:\AppDev\x64\Debug\PasscakTriangle.exe
